@@ -1,6 +1,6 @@
 Linear Regression from Scratch (C)
 
-    This project implements **Linear Regression from scratch using pure Python**, without relying on machine learning 
+    This project implements **Linear Regression from scratch using pure C**, without relying on machine learning 
 libraries such as scikit-learn and the goal is to deeply understand how a fundamental algorithm in Artificial Intelligence 
 works under the hood.
 
